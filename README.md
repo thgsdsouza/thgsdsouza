@@ -8,6 +8,6 @@ Sou apaixonado pela área de programação e espero em breve fazer parte desse u
 
 - Atualmente meu hobby principal tem sido streamar na [twitch](https://twitch.tv/thgsdsouza), me segue lá se curtir uns joguinhos :)
 - Sou fluente em **inglês**, *desenrolo* um **espanhol** e atualmente estou aprendendo **japonês**. 
-- Toco vários instrumentos, mas meu amor mesmo é a bateria e o baixo..
+- Toco vários instrumentos, mas meu amor mesmo é a bateria e o baixo.
 
 
