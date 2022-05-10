@@ -1,13 +1,18 @@
 # SOBRE: 
 
-Oi! Meu nome é **Thiago Souza**, tenho 26 anos, natural de Recife e atualmente atuo como Advogado com foco na área trabalhista, no momento atuando na Secretaria de Saúde do Jaboatão dos Guararapes. 
-Estou fazendo o curso do **NeXT da Cesar School** com o objetivo de migrar de carreira.
-Sou apaixonado pela área de programação e espero em breve fazer parte desse universo, seja como back-end, front-end ou até mesmo full stack. 
+Oi! Meu nome é **Thiago Souza**, tenho 27 anos, natural de Recife e atuo como Advogado, mas estou trabalhando duro para em breve transcionar de área e migrar para o universo da programação! No momento estou focando na área de front-end web development mas também tenho conhecimento na área de back-end.
+
+Atualmente tenho conhecimento em:
+- Python
+- Java
+- Javascript <span style='font-size:100px;'>&#128151;</span> 
+- CSS & HTML 
+- Uma **noçãozinha** de banco de dados 
 
 ## Curiosidades: 
 
-- Atualmente meu hobby principal tem sido streamar na [twitch](https://twitch.tv/thgsdsouza), me segue lá se curtir uns joguinhos :)
+- Atualmente meu hobby principal tem sido streamar na [twitch](https://twitch.tv/ticoticoliro), me segue lá se curtir uns joguinhos :)
 - Sou fluente em **inglês**, *desenrolo* um **espanhol** e atualmente estou aprendendo **japonês**. 
-- Toco vários instrumentos, mas meu amor mesmo é a bateria e o baixo.
+
 
 
