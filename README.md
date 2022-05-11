@@ -1,6 +1,6 @@
 # SOBRE: 
 
-Oi! Meu nome é **Thiago Souza**, tenho 27 anos, natural de Recife e atuo como Advogado, mas estou trabalhando duro para em breve transcionar de área e migrar para o universo da programação! No momento estou focando na área de front-end web development mas também tenho conhecimento na área de back-end.
+Oi! Meu nome é **Thiago Souza**, tenho 27 anos, natural de Recife e atuo como advogado, mas estou trabalhando duro para em breve transcionar de área e migrar para o universo da programação! No momento estou focando na área de front-end web development mas também tenho conhecimento na área de back-end.
 
 Atualmente tenho conhecimento em:
 - Python
